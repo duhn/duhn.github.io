@@ -1,2 +1,0 @@
-# duhn.github.io
-resume
